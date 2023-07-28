@@ -1,0 +1,8 @@
+apiVersion: v2
+name: productSvc
+version: 1.0.0
+description: Test Nginx Helm
+maintainers:
+  - name: Juan Daniel
+    email: mail.jdnielss@gmail.com
+    url: https://jdnielss.dev

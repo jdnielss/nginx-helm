@@ -1,0 +1,7 @@
+favorite:
+  drink: Coffee
+  food: Test
+data: test
+image:
+  name: nginx:alpine
+defaultPort: 80
